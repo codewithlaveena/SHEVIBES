@@ -1,0 +1,6 @@
+{
+  "name": "IGDTUW FresherConnect Code & Docs",
+  "description": "Notepad (.txt), Markdown (.md), and HTML source code viewer and downloader for IGDTUW FresherConnect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,387 @@
+================================================================================
+IGDTUW FRESHERCONNECT - DIGITAL COMPANION & STUDENT HANDBOOK
+Indira Gandhi Delhi Technical University for Women (Kashmere Gate, Delhi)
+Batch of 2026 Orientation Portal & Resource File
+================================================================================
+
+[FILE CONTENTS]
+1. CAMPUS NOTICES & URGENT BULLETINS
+2. ESSENTIAL STUDENT SURVIVAL MODULES
+3. CAMPUS BUILDINGS & LOCATION DIRECTORY
+4. TECH FESTS, HACKATHONS & GRANTS
+5. SENIOR MENTOR DIRECTORY
+6. CAMPUS SURVIVAL FAQS (ATTENDANCE, PRINTING, HOSTEL)
+7. 24/7 EMERGENCY HELPLINES & CONTACTS
+8. COMPLETE STANDALONE HTML SOURCE CODE (FOR BROWSERS)
+
+================================================================================
+1. CAMPUS NOTICES & URGENT BULLETINS
+================================================================================
+
+* [URGENT NOTICE] Due 5:00 PM Today
+  Title: Hostel Biometric & Room Key Allocation - Krishna Ground Floor
+  Location: Krishna Hostel Office
+  Instructions: Present fee deposit receipt and original medical fitness certificate.
+
+* [TODAY'S EVENT] 2:30 PM Today
+  Title: Tech Orientation & Women in Engineering Showcase
+  Location: Incubation Centre Seminar Hall
+  Details: Explore Anveshan Foundation seed grants up to Rs 2.5 Lakhs and student chapter teams.
+
+* [ACADEMICS] 10:15 AM
+  Title: Autumn 2026 Syllabus & Lab Allocations Uploaded to ERP
+  Location: erp.igdtuw.ac.in
+  Details: First semester batch curriculum, practical lab batches (A1-A4), and credit matrix live.
+
+* [CAMPUS LIFE] Tomorrow 4:00 PM
+  Title: Taarangana Cultural Society Auditions Phase 1
+  Location: Auditorium Lawn
+  Details: Open auditions for Music, Dance, Drama, and Fine Arts societies.
+
+
+================================================================================
+2. ESSENTIAL STUDENT SURVIVAL MODULES
+================================================================================
+
+1. Mess & Canteen Menu:
+   - Covers Krishna & Kaveri hostel dining halls.
+   - Breakfast: 7:30 AM - 9:30 AM
+   - Lunch: 12:30 PM - 2:30 PM
+   - Evening Snacks: 5:00 PM - 6:00 PM
+   - Dinner: 7:30 PM - 9:30 PM
+   - Nescafe kiosk right behind MAE building for quick snacks and tea.
+
+2. Class Timetable:
+   - Branch schedules for CSE, IT, ECE, and MAE.
+   - Practical lab rotations and tutorial room allotments.
+
+3. Fresher Onboarding Checklist:
+   - Academic Document verification (Academic Branch Room 102).
+   - University RFID Student Smart Card issuance.
+   - Hostel Biometric fingerprint registration.
+   - Campus Wi-Fi credential setup via IT cell.
+
+4. Ask a Senior (Mentorship Q&A):
+   - Direct guidance on academics, hostels, societies, and interview roadmaps.
+
+5. Anonymous Doubt Box:
+   - 100% private questions with zero identity tracking.
+
+6. Transport & Metro Shuttles:
+   - Kashmere Gate Metro Station (Gate 7) is a 5-minute walk from Gate 1.
+   - E-Rickshaws operate continuously between Lothian Road and ISBT.
+
+
+================================================================================
+3. CAMPUS BUILDINGS & LOCATION DIRECTORY
+================================================================================
+
+* Mechanical & Automation Block (MAE Block)
+  - Distance: 180m (3 mins walk from Central Lawn)
+  - Floors: Ground (Workshops), 1st (LT 1-4), 2nd (Faculty cabins & Robotics Lab)
+  - Timings: 8:00 AM - 6:00 PM
+  - Directions: Walk east across the central lawn path.
+
+* Admin Block & Emergency Medical Unit
+  - Distance: 130m (2 mins walk toward Gate 1)
+  - Facilities: 24/7 Doctor on-call, Free Dispensary, Academic Branch (Room 102), Dean office.
+  - Emergency Phone: 011-23900222
+
+* Student Mess & Food Court
+  - Distance: 60m (1 min walk from Central Lawn)
+  - Facilities: Dining halls, outdoor seating pergola, Nescafe counter.
+
+* Hostel Complex (Krishna & Kaveri)
+  - Distance: 200m (Southeast path near Gate 2)
+  - Facilities: 4 Floors, elevator, gymnasium, badminton courts.
+  - Curfew: 9:00 PM entry deadline for 1st-year students.
+
+* Central Library
+  - Ground floor: Digital reading hall, 20 free printout pages per semester.
+  - Book bank facility for semester course books.
+
+
+================================================================================
+4. TECH FESTS, HACKATHONS & OPPORTUNITIES
+================================================================================
+
+* Innerve '26 Hackathon Sprint (Flagship Fest)
+  - Prize Pool: Rs 1,50,000
+  - Team Size: 2 - 4 Girls (Batch '26 eligible)
+  - Mode: Hybrid
+  - Themes: AI/ML, Web3, FinTech, Women Safety Tech
+  - Organizer: IGDTUW ACM Student Chapter & Tech Council
+
+* Smart India Hackathon (SIH 2026) - Internal Screening
+  - Prize Pool: Rs 1,00,000 per problem statement
+  - Team Size: 6 members (minimum 1 female member)
+  - Mode: Offline at Auditorium
+
+* Flipkart GRIDs 6.0 Campus Challenge
+  - Prize Pool: Rs 5,00,000 + Pre-Placement Interviews (PPIs)
+  - Track: E-Commerce Intelligence & Robotics
+
+* LeanIn Women Techathon & Ideathon
+  - Beginner friendly, zero prerequisites, exclusive for 1st years.
+  - Prize Pool: Rs 50,000 + Goodies
+
+
+================================================================================
+5. SENIOR MENTOR DIRECTORY
+================================================================================
+
+1. Simran Kaur - 4th Year CSE (Google STEP Intern Alum & DSA Mentor)
+2. Ananya Verma - 3rd Year IT (Hostel Representative & Web3 Lead)
+3. Tanvi Pathak - 4th Year ECE (Robotics Society & Hardware Lab)
+4. Rhea Sengupta - 3rd Year AI/ML (Anveshan Incubator & Research Lead)
+
+
+================================================================================
+6. CAMPUS SURVIVAL FAQS
+================================================================================
+
+Q: Is 75% attendance strictly mandatory?
+A: Yes. 75% aggregate is enforced for mid-term and end-term exam admit cards.
+   For genuine medical cases, submit medical certificates within 7 days of
+   absence to the Academic Branch (Room 102).
+
+Q: Where can we get cheap printouts on campus?
+A: 1. Nescafe kiosk xerox shop behind MAE building (Rs 1/page).
+   2. Central Library ground floor offers 20 free digital print pages every
+      semester via your student roll number login.
+
+Q: What is the hostel curfew and leave procedure?
+A: Entry deadline is 9:00 PM on weekdays. For night outs or weekend leaves,
+   submit an e-leave form signed by parents on the hostel portal 24 hours in
+   advance, followed by parental SMS confirmation.
+
+
+================================================================================
+7. 24/7 EMERGENCY CONTACTS & HELPLINES
+================================================================================
+
+* Campus Security Control Room (PCR Gate 1) : 011-23900200
+* University Medical Center Doctor On-Call  : 011-23900222
+* Delhi Police Women Helpline               : 1091 / 112
+* Proctor & Anti-Ragging Squad Office      : 011-23900250
+* Krishna & Kaveri Hostel Warden On-Duty   : 011-23900244
+
+
+================================================================================
+8. COMPLETE STANDALONE HTML SOURCE CODE
+================================================================================
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IGDTUW FresherConnect - Mobile-First Digital Companion</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <style>
+      body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    </style>
+  </head>
+  <body class="bg-slate-50 text-slate-900 min-h-screen">
+    <!-- Top Brand Header -->
+    <header class="sticky top-0 z-30 bg-white/95 backdrop-blur border-b border-slate-200 px-4 py-3 sm:px-6">
+      <div class="max-w-4xl mx-auto flex items-center justify-between">
+        <div class="flex items-center gap-3">
+          <div class="h-10 w-10 rounded-xl bg-pink-600 flex items-center justify-center text-white font-bold text-lg shadow-sm">
+            IG
+          </div>
+          <div>
+            <h1 class="text-base font-bold text-slate-900 leading-tight">IGDTUW FresherConnect</h1>
+            <p class="text-xs text-slate-500">Kashmere Gate Campus • Batch of 2026</p>
+          </div>
+        </div>
+        <div class="flex items-center gap-2">
+          <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold bg-emerald-50 text-emerald-700 border border-emerald-200">
+            <span class="h-2 w-2 rounded-full bg-emerald-500 animate-pulse"></span>
+            Campus Live
+          </span>
+        </div>
+      </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto p-4 sm:p-6 space-y-8">
+      <!-- Urgent Notice Bulletin Feed -->
+      <section id="bulletin-section" class="space-y-3">
+        <div class="flex items-center justify-between">
+          <h2 class="text-sm font-bold uppercase tracking-wider text-slate-500">Live Campus Bulletin</h2>
+          <span class="text-xs text-pink-600 font-medium cursor-pointer hover:underline">View All (4)</span>
+        </div>
+        <div class="grid gap-3 sm:grid-cols-2">
+          <!-- Notice 1 -->
+          <article class="p-4 rounded-2xl bg-red-50/50 border border-red-100 flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-2">
+                <span class="px-2 py-0.5 text-[11px] font-semibold bg-red-100 text-red-700 rounded-md">Urgent Notice</span>
+                <span class="text-xs text-slate-500 font-medium">Due 5:00 PM</span>
+              </div>
+              <h3 class="text-sm font-bold text-slate-900 leading-snug">Hostel Biometric & Room Key Allocation</h3>
+              <p class="text-xs text-slate-600 mt-1">Present fee deposit receipt and original medical fitness certificate.</p>
+            </div>
+            <div class="mt-3 pt-3 border-t border-red-100/60 flex items-center justify-between text-xs">
+              <span class="text-slate-500">📍 Krishna Hostel Office</span>
+              <a href="#instructions" class="font-semibold text-red-600 hover:underline">View Instructions →</a>
+            </div>
+          </article>
+
+          <!-- Notice 2 -->
+          <article class="p-4 rounded-2xl bg-pink-50/50 border border-pink-100 flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-2">
+                <span class="px-2 py-0.5 text-[11px] font-semibold bg-pink-100 text-pink-700 rounded-md">Today's Event</span>
+                <span class="text-xs text-slate-500 font-medium">2:30 PM Today</span>
+              </div>
+              <h3 class="text-sm font-bold text-slate-900 leading-snug">Tech Orientation & Women in Engineering Showcase</h3>
+              <p class="text-xs text-slate-600 mt-1">Explore incubation grants up to ₹2.5 Lakhs and join engineering society teams.</p>
+            </div>
+            <div class="mt-3 pt-3 border-t border-pink-100/60 flex items-center justify-between text-xs">
+              <span class="text-slate-500">📍 Incubation Centre Hall</span>
+              <a href="#rsvp" class="font-semibold text-pink-600 hover:underline">RSVP Spot →</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <!-- Quick Action Modules -->
+      <section id="modules-section" class="space-y-3">
+        <h2 class="text-sm font-bold uppercase tracking-wider text-slate-500">Essential Survival Modules</h2>
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+          <div class="p-3.5 bg-white border border-slate-200 rounded-xl hover:border-pink-300 transition shadow-sm cursor-pointer">
+            <div class="text-2xl mb-1">🍱</div>
+            <h4 class="text-xs font-bold text-slate-900">Mess & Canteen Menu</h4>
+            <p class="text-[11px] text-slate-500 mt-0.5">Krishna & Kaveri meal timings</p>
+          </div>
+          <div class="p-3.5 bg-white border border-slate-200 rounded-xl hover:border-pink-300 transition shadow-sm cursor-pointer">
+            <div class="text-2xl mb-1">📅</div>
+            <h4 class="text-xs font-bold text-slate-900">Class Timetable</h4>
+            <p class="text-[11px] text-slate-500 mt-0.5">CSE, IT, ECE, & MAE sections</p>
+          </div>
+          <div class="p-3.5 bg-white border border-slate-200 rounded-xl hover:border-pink-300 transition shadow-sm cursor-pointer">
+            <div class="text-2xl mb-1">✅</div>
+            <h4 class="text-xs font-bold text-slate-900">Onboarding Checklist</h4>
+            <p class="text-[11px] text-slate-500 mt-0.5">Documents, RFID & Biometrics</p>
+          </div>
+          <div class="p-3.5 bg-white border border-slate-200 rounded-xl hover:border-pink-300 transition shadow-sm cursor-pointer">
+            <div class="text-2xl mb-1">🎓</div>
+            <h4 class="text-xs font-bold text-slate-900">Ask a Senior</h4>
+            <p class="text-[11px] text-slate-500 mt-0.5">Direct mentorship Q&A</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Campus Navigation Locations -->
+      <section id="campus-map-section" class="space-y-3">
+        <h2 class="text-sm font-bold uppercase tracking-wider text-slate-500">Interactive Campus Locations</h2>
+        <div class="grid gap-3 sm:grid-cols-2">
+          <div class="p-4 bg-white border border-slate-200 rounded-2xl space-y-2">
+            <div class="flex items-center justify-between">
+              <span class="text-xs font-bold text-pink-600 bg-pink-50 px-2 py-0.5 rounded">MAE BLOCK</span>
+              <span class="text-xs text-slate-500">3 mins walk (180m)</span>
+            </div>
+            <h3 class="text-sm font-bold text-slate-900">Mechanical & Automation Block</h3>
+            <p class="text-xs text-slate-600">LT-1, LT-2, Robotics Research Lab & Mechanical Workshops.</p>
+            <div class="text-[11px] text-slate-500 pt-2 border-t border-slate-100">
+              <strong>Timings:</strong> 8:00 AM – 6:00 PM
+            </div>
+          </div>
+
+          <div class="p-4 bg-white border border-slate-200 rounded-2xl space-y-2">
+            <div class="flex items-center justify-between">
+              <span class="text-xs font-bold text-rose-600 bg-rose-50 px-2 py-0.5 rounded">ADMIN BLOCK</span>
+              <span class="text-xs text-slate-500">2 mins walk (130m)</span>
+            </div>
+            <h3 class="text-sm font-bold text-slate-900">Medical Room & Admin Cell</h3>
+            <p class="text-xs text-slate-600">24/7 Doctor On-Call, Emergency Dispensary, and Dean Office.</p>
+            <div class="text-[11px] text-slate-500 pt-2 border-t border-slate-100">
+              <strong>Emergency Phone:</strong> 011-23900222 (Free medicines)
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Hackathons & Tech Sprints -->
+      <section id="hackathons-section" class="space-y-3">
+        <h2 class="text-sm font-bold uppercase tracking-wider text-slate-500">Upcoming Hackathons & Contests</h2>
+        <div class="p-5 bg-gradient-to-br from-pink-50 via-white to-purple-50 border border-pink-200 rounded-2xl space-y-3">
+          <div class="flex items-center justify-between flex-wrap gap-2">
+            <span class="px-2.5 py-1 text-xs font-bold bg-pink-600 text-white rounded-lg">Flagship Fest</span>
+            <span class="text-xs font-bold text-red-600">Ends in 3 days</span>
+          </div>
+          <div>
+            <h3 class="text-base font-extrabold text-slate-900">Innerve '26 Hackathon Sprint</h3>
+            <p class="text-xs text-slate-600 mt-1">North India's largest women hackathon. 36 hours of coding with direct mentorship from Google, Microsoft, and Uber engineers.</p>
+          </div>
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs pt-2">
+            <div class="bg-white/80 p-2 rounded-lg border border-pink-100">
+              <span class="text-slate-500 block text-[10px]">Prize Pool</span>
+              <span class="font-bold text-slate-900">₹1,50,000</span>
+            </div>
+            <div class="bg-white/80 p-2 rounded-lg border border-pink-100">
+              <span class="text-slate-500 block text-[10px]">Team Size</span>
+              <span class="font-bold text-slate-900">2 – 4 Girls</span>
+            </div>
+            <div class="bg-white/80 p-2 rounded-lg border border-pink-100">
+              <span class="text-slate-500 block text-[10px]">Eligibility</span>
+              <span class="font-bold text-slate-900">Batch '26 Eligible</span>
+            </div>
+            <div class="bg-white/80 p-2 rounded-lg border border-pink-100">
+              <span class="text-slate-500 block text-[10px]">Format</span>
+              <span class="font-bold text-slate-900">Hybrid</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Senior Mentorship Roster -->
+      <section id="mentors-section" class="space-y-3">
+        <h2 class="text-sm font-bold uppercase tracking-wider text-slate-500">Active Senior Mentors</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          <div class="p-3.5 bg-white border border-slate-200 rounded-xl flex items-center gap-3">
+            <div class="h-10 w-10 rounded-full bg-pink-500 text-white font-bold flex items-center justify-center shrink-0">SK</div>
+            <div>
+              <h4 class="text-xs font-bold text-slate-900">Simran Kaur</h4>
+              <p class="text-[11px] text-slate-500">4th Year CSE • Google STEP Alum & DSA Mentor</p>
+            </div>
+          </div>
+          <div class="p-3.5 bg-white border border-slate-200 rounded-xl flex items-center gap-3">
+            <div class="h-10 w-10 rounded-full bg-indigo-500 text-white font-bold flex items-center justify-center shrink-0">AV</div>
+            <div>
+              <h4 class="text-xs font-bold text-slate-900">Ananya Verma</h4>
+              <p class="text-[11px] text-slate-500">3rd Year IT • Hostel Representative & Web3 Lead</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 24/7 Emergency Helplines -->
+      <section id="emergency-section" class="p-5 bg-rose-50 border border-rose-200 rounded-2xl space-y-3">
+        <h3 class="text-sm font-bold text-rose-900">24/7 Security & Support Numbers</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
+          <div class="bg-white p-2.5 rounded-lg border border-rose-100">
+            <div class="font-bold text-slate-900">Campus Security (Gate 1 PCR)</div>
+            <a href="tel:01123900200" class="text-rose-600 font-semibold">011-23900200</a>
+          </div>
+          <div class="bg-white p-2.5 rounded-lg border border-rose-100">
+            <div class="font-bold text-slate-900">University Medical Center</div>
+            <a href="tel:01123900222" class="text-rose-600 font-semibold">011-23900222</a>
+          </div>
+          <div class="bg-white p-2.5 rounded-lg border border-rose-100">
+            <div class="font-bold text-slate-900">Delhi Police Women Helpline</div>
+            <a href="tel:1091" class="text-rose-600 font-semibold">1091 / 112</a>
+          </div>
+          <div class="bg-white p-2.5 rounded-lg border border-rose-100">
+            <div class="font-bold text-slate-900">Hostel Warden On-Duty</div>
+            <a href="tel:01123900244" class="text-rose-600 font-semibold">011-23900244</a>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
